@@ -8,13 +8,12 @@ I'm Japanese and scientist with Ph.D. in Physics and [Google Developer Expert (G
 
 - GitHub : Applications [https://github.com/tanaikech](https://github.com/tanaikech)
 - Gists : Tips [https://gist.github.com/tanaikech](https://gist.github.com/tanaikech)
-- Homepage : Here [https://tanaikech.github.io/](https://tanaikech.github.io)
+- Homepage : Here [https://tanaikech.github.io](https://tanaikech.github.io)
 - Qiita : Tips in Japanese [http://qiita.com/tanaike](http://qiita.com/tanaike)
 - Stackoverflow : [http://stackoverflow.com/users/7108653/tanaike](http://stackoverflow.com/users/7108653/tanaike)
 - Skillshare.com : [https://www.skillshare.com/user/tanaike](https://www.skillshare.com/user/tanaike)
 - Taking Advantage of Google Apps Script: [https://github.com/tanaikech/taking-advantage-of-google-apps-script](https://github.com/tanaikech/taking-advantage-of-google-apps-script) - This is the page which summarized my repositories related to Google Apps Script.
 - [Trend of google-apps-script Tag on Stackoverflow 2020](https://gist.github.com/tanaikech/fd7dbc6d630fd0550c32159635cecc96)
-
 
 ## Japanese version
 
