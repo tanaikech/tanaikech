@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Ph.D.-Physics-8A2BE2?style=for-the-badge&logo=atom&logoColor=white" alt="Ph.D. in Physics" />
 
 <!-- GDE Badge -->
-<a href="https://developers.google.com/community/experts/directory/profile/profile-kanshi-tanaike">
+<a href="https://developers.google.com/community/experts/directory?text=tanaike">
 <img src="https://img.shields.io/badge/Google_Developer_Expert-Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDE" />
 </a>
 
