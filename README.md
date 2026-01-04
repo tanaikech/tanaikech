@@ -44,7 +44,7 @@ Currently, I serve as a **Google Developer Expert (GDE) for Google Workspace**, 
 - 💬 Ask me about **GAS, Node.js, Python, Golang, and Google Cloud**.
 - 🏆 **Key Achievements:**
     - **Ph.D. in Physics**: Advanced research background providing a strong foundation for logical algorithms.
-    - **Google Developer Expert**: Officially recognized by Google for expertise in Workspace technology.
+    - **Google Developer Expert**: Officially recognized by Google for expertise in Workspace technology. [Awarded first place in the Outstanding GDE Award](https://tanaikech.github.io/2025/10/12/recipient-of-the-outstanding-google-developer-expert-award/).
     - **Stack Overflow**: Top contributor in the [`google-apps-script`](https://stackoverflow.com/tags/google-apps-script/info) tag with a high reputation score.
 
 ---
