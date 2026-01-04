@@ -45,7 +45,7 @@ Currently, I serve as a **Google Developer Expert (GDE) for Google Workspace**, 
 - 🏆 **Key Achievements:**
     - **Ph.D. in Physics**: Advanced research background providing a strong foundation for logical algorithms.
     - **Google Developer Expert**: Officially recognized by Google for expertise in Workspace technology.
-    - **Stack Overflow**: Top contributor in the `google-apps-script` tag with a high reputation score.
+    - **Stack Overflow**: Top contributor in the [`google-apps-script`](https://stackoverflow.com/tags/google-apps-script/info) tag with a high reputation score.
 
 ---
 
